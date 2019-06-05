@@ -1,2 +1,2 @@
-# k_nearest_neighbours
+# k-nearest-neighbours visualization
 a KNN algorithm visualised with Processing
